@@ -1,7 +1,7 @@
 
 # For making these
 read first ! all stated with their calling for gk Not forget space where given ,**use these** & write a comment if get confused. 
-  `use # text`//give space after hashtag
+ 
  * [ ]  `write` use --> words inside apostrophi { ` }
  * [x]  for check box use-->  `* [x]`
  * [ ]  for blank box use-->  `* [ ]` //keep one space between square bracket .
