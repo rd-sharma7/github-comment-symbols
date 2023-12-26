@@ -1,6 +1,6 @@
 **for making these** 
 
-use these & write comment if get confused.
+use these & write a comment if get confused.
 >`write` for this  use --> words inside apostrophi { ` }
 
 > * [x]  for check box use-->  `* [x]`
