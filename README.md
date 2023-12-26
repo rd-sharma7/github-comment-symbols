@@ -1,7 +1,7 @@
 **for making these** 
 
 use these & write comment if get confused.
->`write` use --> words inside apostrophi { ` }
+>`write` for this  use --> words inside apostrophi { ` }
 
 > * [x]  for check box use-->  `* [x]`
 > * [ ]  for blank box use--> ` * [ ] `  
