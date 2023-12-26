@@ -10,7 +10,7 @@ read first ! all stated with their calling for gk Not forget space where given ,
  * [ ]   ***Bold and italic*** use --> `***text***`
  * [ ]   ~~Strike through text~~   use --> `~~text~~`// double tilde
 
- * [ ] [See this for docs page ](https://github.com/ru-cpu/github_file_symbols_code) use --> `[word_wants](paste link)`
+ * [ ] [See this  docs page ](https://github.com/ru-cpu/github_file_symbols_code) use --> `[word_wants](paste link)`
  
  
  * [ ]  ⚠️ for symbols `write :keyword` //when type keyword it shows list of symbols select required,
