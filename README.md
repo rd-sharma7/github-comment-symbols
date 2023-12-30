@@ -26,7 +26,7 @@ read first ! all stated with their calling for gk Not forget space where given ,
    use --> ` ## heading`  
 3. ### third level H
    use --> ` ### heading`
--  **dot**  -> `- ` write this give a space 
+-  **dot** use  -> `- `or `*` write this give a space
 
 
 
