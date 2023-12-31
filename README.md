@@ -27,6 +27,14 @@ read first ! all stated with their calling for gk Not forget space where given ,
 3. ### third level H
    use --> ` ### heading`
 -  **dot** use  -> `- `or `*` write this give a space
+for copy option like below **use**--> ` ``` **enter** copytext **enter** ``` `
+
+```
+" ```
+hi copy
+``` "
+```
+
 
 
 
