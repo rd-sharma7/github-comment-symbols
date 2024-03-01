@@ -38,9 +38,6 @@ for copy option like below **use**--> ` ``` **enter** copytext **enter** ```
 
 
 
-```sh
-$ git config 
-```
 
 
 
