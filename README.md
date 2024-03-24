@@ -33,6 +33,13 @@ for copy option like below **use**--> ` ``` **enter** copytext **enter** ```
 - `is:issue commenter:your_username`
 
 
+**for the line like below** 
+
+--- 
+👇
+
+--- 'left all line empty than'
+
 
 
 
